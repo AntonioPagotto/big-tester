@@ -1,7 +1,7 @@
 import './Home.css';
-import Header from './components/header/Header';
-import Form from './components/form/Form';
-import Footer from './components/footer/Footer';
+import Header from '../header/Header';
+import Form from '../form/Form';
+import Footer from '../footer/Footer';
 
 function Home() {
   return (
