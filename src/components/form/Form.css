@@ -3,7 +3,6 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 8px;
     width: 529px;
-    height: 536px;
 }
 
 .container-form{
@@ -29,6 +28,7 @@ input[type=radio], select {
 }
 
 input[type=submit]{
+    width: 100%;
     cursor: pointer;
     background: #FFCA28;
     border: 1px solid rgba(255, 255, 255, 0.1);

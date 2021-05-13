@@ -20,7 +20,6 @@ p{
 }
 .box{
   width: 100%;
-  height: 700px;
   margin: 0 auto;
   padding: 0;
 }
@@ -29,6 +28,12 @@ p{
 }
 .w-100{
   width: 100%;
+}
+.red-alert{
+  border-radius: 4px;
+  background: #ff0000b8;
+  padding: 13px;
+  text-align: center;
 }
 .space-between{
   display: flex;

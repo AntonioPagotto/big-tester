@@ -10,11 +10,11 @@ function Footer() {
     <div className="footer">
       <div className="container space-between">
         <span id="logo-bee"></span>
-        <div>
-          <img class="rede-social" src={facebook} />
-          <img class="rede-social" src={youtube} />
-          <img class="rede-social" src={twitter} />
-          <img class="rede-social" src={instagram} />
+        <div className="box-redes">
+          <a><img className="rede-social" src={facebook}/></a>
+          <a><img className="rede-social" src={youtube}/></a>
+          <a><img className="rede-social" src={twitter}/></a>
+          <a><img className="rede-social" src={instagram}/></a>
         </div>
       </div>
     </div>

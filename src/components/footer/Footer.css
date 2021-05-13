@@ -14,6 +14,11 @@
     height: 58px;
     background: url('../../imgs/logo-bee.png');
 }
+.box-redes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .rede-social{
     cursor: pointer;
     width: 32px;
